@@ -10,7 +10,7 @@
 <a name="english-version"></a>
 # 🇬🇧 English Version
 
-# WeightPrognosis (WIP)
+# Weight Forecast (WIP)
 **Weight Goal Calculator**
 
 A simple and intuitive application designed to help understand the relationship between caloric intake and weight goals.
@@ -62,7 +62,7 @@ I am currently working on expanding the functionality of this app. Future update
 <a name="deutsche-version"></a>
 # 🇩🇪 Deutsche Version
 
-# WeightPrognosis (WIP)
+# Weight Forecast (WIP)
 **Zielgewichts-Rechner**
 
 Eine einfache und intuitive Anwendung, die dabei hilft, den Zusammenhang zwischen Kalorienzufuhr und Gewichtszielen zu verstehen.
